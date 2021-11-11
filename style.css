@@ -1,0 +1,17 @@
+.bild1 {
+text-align: center;
+width: 100%;
+}
+
+nav {
+    gap: 20px;
+    justify-content: left;
+}
+
+section{
+    display: flex;
+    gap: 20px;
+    justify-content: right;
+}
+
+

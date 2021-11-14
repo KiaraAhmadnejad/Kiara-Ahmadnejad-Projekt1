@@ -14,4 +14,8 @@ section{
     justify-content: right;
 }
 
+.div {
+    display: flex;
+    padding: 12;
+}
 

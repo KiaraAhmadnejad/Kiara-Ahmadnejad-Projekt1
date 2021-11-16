@@ -2,6 +2,14 @@ nav{
     display: flex;
     gap: 20px;
     font-size: 20px;
-    color: rgb(229, 161, 238) ;
+    color: rgb(224, 161, 238) ;
     font-family: 'Impact', Verdana, fantasy;
+}
+
+.container{
+    width: 100%;
+    height:auto;
+    background-color: indigo;
+    margin-right: auto;
+    margin-left: auto;
 }

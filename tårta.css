@@ -11,9 +11,6 @@ nav {
     display: flex;
     width: 20%;
     height: 15%;
+    font-family: 'Lucida Sans', Geneva, sans-serif;
 }
 
-.image-container {
-    display: flex;
-    width: 50px;
-}

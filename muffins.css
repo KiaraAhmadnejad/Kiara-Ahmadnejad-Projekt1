@@ -7,7 +7,9 @@ nav {
     background-color: rgb(228, 196, 252);
 }
 
-.vaniljmuffins {
+.div{
     display: flex;
     width: 200px;
+    font-size: 10px;
+    font-family: 'Goudy Bookletter 1911', sans-serif;
 }

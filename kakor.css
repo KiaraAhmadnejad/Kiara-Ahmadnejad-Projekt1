@@ -6,3 +6,10 @@ nav {
     font-family: 'Impact', Verdana, fantasy;
     background-color: rgb(228, 196, 252);
 }
+
+.kakor{
+    position: absolute;
+    right: 4%;
+    width: 32%;
+
+}

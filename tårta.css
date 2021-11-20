@@ -1,16 +1,14 @@
 nav {
-    display: flex;
-    gap: 20px;
-    font-size: 20px;
-    color: rgb(224, 161, 238) ;
-    font-family: 'Impact', Verdana, fantasy;
-    background-color: rgb(228, 196, 252);
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+  color: rgb(224, 161, 238);
+  font-family: "Impact", Verdana, fantasy;
+  background-color: rgb(228, 196, 252);
 }
 
-.apelsinkaka {
-    display: flex;
-    width: 20%;
-    height: 15%;
-    font-family: 'Lucida Sans', Geneva, sans-serif;
+.cake {
+  position: absolute;
+  right: 5%;
+  width:32%;
 }
-

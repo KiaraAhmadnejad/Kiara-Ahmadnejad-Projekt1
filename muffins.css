@@ -13,3 +13,9 @@ nav {
     font-size: 10px;
     font-family: 'Goudy Bookletter 1911', sans-serif;
 }
+
+.muffins{
+    position: absolute;
+    right: 2%;
+    width: 32%;
+}

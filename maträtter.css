@@ -6,3 +6,9 @@ nav {
     font-family: 'Impact', Verdana, fantasy;
     background-color: rgb(228, 196, 252);
 }
+
+.pasta{
+    position: absolute;
+    right: 2%;
+    width: 32%;
+}
